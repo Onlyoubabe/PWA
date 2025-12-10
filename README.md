@@ -1,4 +1,4 @@
-# Sistema de Gestión de Alquileres (JorochosPizza Repo)
+# Sistema de Gestión de Alquileres
 
 Este es un sistema moderno para la gestión de propiedades y alquileres, construido con el último stack tecnológico de Laravel.
 
@@ -21,8 +21,8 @@ Sigue estos pasos para levantar el proyecto en tu entorno local:
 
 1.  **Clonar el repositorio:**
     ```bash
-    git clone https://github.com/Onlyoubabe/JorochosPizza.git
-    cd JorochosPizza
+    git clone https://github.com/Onlyoubabe/PWA.git
+    cd PWA
     ```
 
 2.  **Instalar dependencias de PHP:**
